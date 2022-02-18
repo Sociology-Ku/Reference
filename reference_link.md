@@ -43,3 +43,6 @@
 * <a href = "https://neptune.ai/blog/lightgbm-parameters-guide">Understanding LightGBM Parameters (and How to Tune Them)</a>
 * <a href = "https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb&app=desktop"> 핸즈온 머신러닝 역자 직장</a>
 ---
+  
+### etc.
+* <a href = "https://github.com/hibuz/dev-conf-replay"> IT & Dev. 컨퍼런스 모음 </a>
